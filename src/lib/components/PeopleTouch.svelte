@@ -1,23 +1,30 @@
 <section class="bg-[#F9F9F9] py-32">
+    <!-- Team Image -->
+    <div class="container mb-20">
+        <div class="rounded-2xl overflow-hidden shadow-lg max-w-4xl mx-auto">
+            <img src="/generated/image-confident-founder-in-casual-tech-attire--1765401039816-3.webp" alt="Orbit team" class="w-full h-[400px] object-cover" />
+        </div>
+    </div>
+
     <div class="container grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-32">
         
         <!-- Left Column -->
         <div class="flex flex-col h-full justify-between">
             <div>
                 <span class="text-sm text-[--color-brand-blue] mb-8 block font-medium">2.0</span>
-                <h2 class="text-4xl font-normal text-gray-900 mb-8 tracking-tight">Driven by People</h2>
+                <h2 class="text-4xl font-normal text-gray-900 mb-8 tracking-tight">Mission-Driven Team</h2>
                 <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-12">
-                    We believe technology is only as powerful as the people behind it. Discover the team that makes it possible.
+                    We're a small team on the mission of our lives: transforming our species through neuromodulation. Join us in breaking biology's limits.
                 </p>
             </div>
             
-            <a href="#" class="inline-flex items-center gap-3 text-[--color-brand-blue] text-xs font-medium hover:opacity-80 transition-opacity mt-auto group">
+            <a href="mailto:steven@orbit.engineering" class="inline-flex items-center gap-3 text-[--color-brand-blue] text-xs font-medium hover:opacity-80 transition-opacity mt-auto group">
                 <div class="w-8 h-8 border border-[--color-brand-blue] rounded-full flex items-center justify-center relative group-hover:bg-[--color-brand-blue] group-hover:text-white transition-colors">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
                 </div>
-                Power Unified
+                Join Our Team
             </a>
         </div>
 
@@ -27,17 +34,17 @@
                 <span class="text-sm text-[--color-brand-blue] mb-8 block font-medium">3.0</span>
                 <h2 class="text-4xl font-normal text-gray-900 mb-8 tracking-tight">Get in Touch</h2>
                 <p class="text-sm text-gray-500 leading-relaxed max-w-sm mb-12">
-                    Questions, ideas, or just a hello — we're here. Reach out and let's build something remarkable together.
+                    Interested in our technology? Want to join the biohacker community? Reach out and be part of the transformation.
                 </p>
             </div>
             
-            <a href="#" class="inline-flex items-center gap-3 text-[--color-brand-blue] text-xs font-medium hover:opacity-80 transition-opacity mt-auto group">
+            <a href="mailto:steven@orbit.engineering" class="inline-flex items-center gap-3 text-[--color-brand-blue] text-xs font-medium hover:opacity-80 transition-opacity mt-auto group">
                 <div class="w-8 h-8 border border-[--color-brand-blue] rounded-full flex items-center justify-center relative group-hover:bg-[--color-brand-blue] group-hover:text-white transition-colors">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
                 </div>
-                Say Hello
+                Contact Us
             </a>
         </div>
 
